@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/center/center",
+    "pages/center/upload"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "图片剪切",
+    "navigationBarTextStyle": "black"
+  },
+  "navigateToMiniProgramAppIdList": [
+    "wxd34e87218491471c"
+  ]
+}

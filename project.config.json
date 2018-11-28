@@ -1,0 +1,126 @@
+{
+	"description": "项目配置文件。",
+	"packOptions": {
+		"ignore": []
+	},
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true,
+		"nodeModules": false
+	},
+	"compileType": "miniprogram",
+	"libVersion": "2.4.0",
+	"appid": "wx43b875dcc0ac1524",
+	"projectname": "imgClips",
+	"isGameTourist": false,
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"currentL": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": 13,
+			"list": [
+				{
+					"id": -1,
+					"name": "我的",
+					"pathName": "pages/my/my",
+					"query": ""
+				},
+				{
+					"id": 1,
+					"name": "详情",
+					"pathName": "pages/detail/detail",
+					"query": "activityId=97"
+				},
+				{
+					"id": -1,
+					"name": "更多",
+					"pathName": "pages/detail/detail",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "抽奖",
+					"pathName": "pages/luckDraw/luckDraw",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "全部结束列表",
+					"pathName": "pages/overList/overList",
+					"query": ""
+				},
+				{
+					"id": 5,
+					"name": "中奖名单",
+					"pathName": "pages/winList/winList",
+					"query": "activityId=67"
+				},
+				{
+					"id": -1,
+					"name": "商务合作",
+					"pathName": "pages/cop/cop",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "参与抽奖",
+					"pathName": "pages/ptc/ptc",
+					"query": ""
+				},
+				{
+					"id": 8,
+					"name": "全部头像",
+					"pathName": "pages/lookAll/lookAll",
+					"query": "activityId=activity1"
+				},
+				{
+					"id": -1,
+					"name": "参与抽奖",
+					"pathName": "pages/launch/launch",
+					"query": "activityId=activity4"
+				},
+				{
+					"id": -1,
+					"name": "常见问题",
+					"pathName": "pages/question/question",
+					"query": ""
+				},
+				{
+					"id": 11,
+					"name": "发起抽奖",
+					"pathName": "pages/center/center",
+					"query": "activityId=61"
+				},
+				{
+					"id": -1,
+					"name": "个人中心发起抽奖",
+					"pathName": "pages/launch/launch",
+					"query": "activityId=67"
+				},
+				{
+					"id": 13,
+					"name": "全部中奖名单",
+					"pathName": "pages/winList/winList",
+					"query": "activityId=97&activityMultiRewardList=0"
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,16 @@
+page{
+  background: #fff;
+}
+.chooseBtn{
+  width: 400rpx;
+  height: 80rpx;
+  line-height: 80rpx;
+  margin: 30rpx auto;
+  text-align: center;
+  background: #e5e5e5;
+  border-radius: 10rpx;
+}
+image{
+  width: 750rpx;
+  height: 400rpx;
+}

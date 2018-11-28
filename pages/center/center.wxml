@@ -1,0 +1,8 @@
+<view class="chooseBtn" bindtap="bindChooseType">
+  更换奖品图片
+</view>
+<image src='{{defaultImg}}'></image>
+
+<view class="chooseBtn" bindtap="save">
+  保存图片
+</view>
